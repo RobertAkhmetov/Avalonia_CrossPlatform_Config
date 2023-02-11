@@ -23,6 +23,7 @@ using CommonDlmsModels;
 using Gurux.Net;
 using Gurux.DLMS.Reader;
 using System.Reflection.PortableExecutable;
+using System.Runtime.InteropServices; //для определения ОС на ходу
 
 //для графики-вектора
 //using LiveCharts;
@@ -318,6 +319,14 @@ namespace AvaloniaApplication1.ViewModels
 
         public async System.Threading.Tasks.Task showInfoAboutProgFunc()
         {
+            if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
+            {
+                MessageBox.ShowAsync("windows");
+            }
+            else
+            {
+                MessageBox.ShowAsync("linux");
+            }
              MessageBox.ShowAsync("info about prog");
         }
 
