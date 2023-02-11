@@ -1,0 +1,60 @@
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\bin\Debug\net60-windows\Gurux.DLMS.deps.json
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\bin\Debug\net60-windows\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\bin\Debug\net60-windows\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.ManufacturerSettings.GXXmlEditor.resources
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Properties.Resources.resources
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.GenerateResource.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.AssemblyInfo.cs
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\refint\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\ref\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\bin\Debug\net60-windows\Gurux.DLMS.deps.json
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\bin\Debug\net60-windows\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\bin\Debug\net60-windows\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.ManufacturerSettings.GXXmlEditor.resources
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Properties.Resources.resources
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.GenerateResource.cache
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.AssemblyInfo.cs
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\refint\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net60-windows\ref\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\bin\Debug\net60-windows\Gurux.DLMS.deps.json
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\bin\Debug\net60-windows\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\bin\Debug\net60-windows\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.ManufacturerSettings.GXXmlEditor.resources
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.Properties.Resources.resources
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.GenerateResource.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.AssemblyInfo.cs
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\refint\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\Development\obj\Debug\net60-windows\ref\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\bin\Debug\net60-windows\Gurux.DLMS.deps.json
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\bin\Debug\net60-windows\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\bin\Debug\net60-windows\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.ManufacturerSettings.GXXmlEditor.resources
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.Properties.Resources.resources
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.GenerateResource.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.AssemblyInfo.cs
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.Net.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\refint\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\Development\obj\Debug\net60-windows\ref\Gurux.DLMS.dll

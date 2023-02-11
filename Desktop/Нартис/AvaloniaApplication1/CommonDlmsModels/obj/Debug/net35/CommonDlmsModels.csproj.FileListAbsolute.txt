@@ -1,0 +1,55 @@
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\Newtonsoft.Json.dll
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfo.cs
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CopyComplete
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\Downloads\2\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\Newtonsoft.Json.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfo.cs
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CopyComplete
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 подключается изменена мной\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\Newtonsoft.Json.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfo.cs
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CopyComplete
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 попытка подключиться к И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\bin\Debug\net35\Newtonsoft.Json.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfo.cs
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CopyComplete
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\1.0.0 И100\mconfig_nartis-master\meter_config\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\bin\Debug\net35\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\bin\Debug\net35\Newtonsoft.Json.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.AssemblyInfo.cs
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.csproj.CopyComplete
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net35\CommonDlmsModels.pdb

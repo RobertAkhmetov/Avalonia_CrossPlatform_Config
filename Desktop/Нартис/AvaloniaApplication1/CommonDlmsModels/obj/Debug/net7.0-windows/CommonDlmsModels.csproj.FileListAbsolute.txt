@@ -1,0 +1,12 @@
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\bin\Debug\net7.0-windows\CommonDlmsModels.deps.json
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\bin\Debug\net7.0-windows\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\bin\Debug\net7.0-windows\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\CommonDlmsModels.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\CommonDlmsModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\CommonDlmsModels.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\CommonDlmsModels.AssemblyInfo.cs
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\CommonDlmsModels.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\refint\CommonDlmsModels.dll
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\CommonDlmsModels.pdb
+C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1\CommonDlmsModels\obj\Debug\net7.0-windows\ref\CommonDlmsModels.dll

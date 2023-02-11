@@ -1,0 +1,139 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:AvaloniaApplication1.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaApplication1.Views.MainWindow"
+        
+        Icon="/Assets/appIcon.ico"
+        Title="Конфигуратор НАРТИС"
+        >
+
+
+
+    <Design.DataContext>
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <!-- горячие клавиши -->
+    <Window.KeyBindings>
+      <KeyBinding Command="{Binding showInfoAboutProg}" Gesture="F1"></KeyBinding>
+    </Window.KeyBindings>
+  
+
+  
+  <!--
+  <Style TargerType="Button">
+    <Style.Setters>
+      <Setter Property= "Button.Background" Value="Black"/>
+      <Setter Property="Button.Foreground" Value="Black" />
+    </Style.Setters>
+    <Style.Triggers>
+      <Trigger Property="{Binding isPressed}" value="True">
+        <Setter Property= "Button.Background" Value="Black"/>
+        <Setter Property="Button.Foreground" Value="Black" />
+      </Trigger>
+    </Style.Triggers>
+  </Style>
+-->
+
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*"></RowDefinition>
+    </Grid.RowDefinitions>
+
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="20*"></ColumnDefinition>
+      <ColumnDefinition Width="80*"></ColumnDefinition>
+    </Grid.ColumnDefinitions>
+
+
+    <StackPanel Orientation="Vertical" Grid.Column="0">
+      <TreeView>
+        <TextBox> </TextBox>
+        <TreeViewItem Header="Общие данные"></TreeViewItem>
+        <TreeViewItem Header="Показания">
+          <TreeViewItem Header="Энергия" />
+          <TreeViewItem Header="Параметры сети" />
+          <TreeViewItem Header="Телеизмерения" />
+          <TreeViewItem Header="Потери" />
+        </TreeViewItem>
+        <TreeViewItem Header="Архивы">
+          <TreeViewItem Header="Профиль нагрузки">
+            <TreeViewItem Header="НА" />
+            <TreeViewItem Header="РТ" />
+            <TreeViewItem Header="ИС" />
+          </TreeViewItem>
+          <TreeViewItem Header="Временные профили">
+            <TreeViewItem Header="Часовой профиль" />
+            <TreeViewItem Header="Ежесуточный профиль" />
+            <TreeViewItem Header="Ежемесячный профиль" />
+          </TreeViewItem>
+        </TreeViewItem>
+      </TreeView>
+
+      <TextBlock>fdsfds</TextBlock>
+      <!--<Image 
+        Source="C:\Users\akhmetov_rr\source\repos\AvaloniaApplication1_tryWriteProt\AvaloniaApplication1\Assets\img\ndb.png"
+        Height="200"
+        Width="200"
+        VerticalAlignment="Bottom"
+        HorizontalAlignment="Left"
+        ></Image>-->
+
+    </StackPanel> 
+    
+  
+  <!-- само определение грида-->
+  <Grid Margin="4" Grid.Column="1">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*"></RowDefinition>
+      <RowDefinition Height="*"></RowDefinition>
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*"></ColumnDefinition>
+      <ColumnDefinition Width="*"></ColumnDefinition>
+    </Grid.ColumnDefinitions>
+  
+
+  <!-- далее то, что относится к гриду-->
+    <TextBlock Text="{Binding connectStatus}" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="0"/>
+    <Button IsVisible="{Binding !isPressed}" Grid.Row="1" Grid.Column="0" Command ="{Binding tryOptoConnect}" HorizontalAlignment="Center" VerticalAlignment="Center">попытаться подключиться через оптопорт</Button>
+    <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,20,0">
+      <!-- таблица для параметров подключения -->
+      <Grid>
+        <Grid.RowDefinitions>
+          <RowDefinition Height="*"></RowDefinition>
+          <RowDefinition Height="*"></RowDefinition>
+          <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="*"></ColumnDefinition>
+          <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+      
+      <TextBlock Grid.Column="0" Grid.Row="0" Text="рабочий порт:"></TextBlock>
+      <TextBlock Grid.Column="0" Grid.Row="1" Text="текущее время:"></TextBlock>
+      <TextBlock Grid.Column="0" Grid.Row="2" Text="напряжение:"></TextBlock>
+        
+      <TextBlock Grid.Column="1" Grid.Row="0" Text=" fdsfdsf"></TextBlock>
+      <TextBlock Grid.Column="1" Grid.Row="1" Text=" 222222"></TextBlock>
+      <TextBlock Grid.Column="1" Grid.Row="2" Text=" 33333"></TextBlock>        
+      
+
+      </Grid>
+    </StackPanel>
+
+    <StackPanel Grid.Row="1" Grid.Column="1">
+      <TextBlock Text="Логи подключения"></TextBlock>
+      <TextBox 
+        Text="{Binding connectInfoLog}"
+        IsReadOnly="True"
+        ></TextBox>
+    </StackPanel>
+    
+  </Grid>
+
+  </Grid>
+</Window>

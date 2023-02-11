@@ -1,0 +1,24 @@
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\bin\Debug\net472\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\bin\Debug\net472\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.ManufacturerSettings.GXXmlEditor.resources
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Properties.Resources.resources
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.csproj.GenerateResource.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.AssemblyInfo.cs
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Desktop\версии конфигуратора\2 попытка перенести на .net с помощью либы на гитхаб\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\bin\Debug\net472\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\bin\Debug\net472\Gurux.DLMS.pdb
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.csproj.AssemblyReference.cache
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.ManufacturerSettings.GXXmlEditor.resources
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Properties.Resources.resources
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.csproj.GenerateResource.cache
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.AssemblyInfoInputs.cache
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.AssemblyInfo.cs
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.Net.csproj.CoreCompileInputs.cache
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.dll
+C:\Users\akhmetov_rr\Downloads\urezGit\Gurux.DLMS.Net-master\Development\obj\Debug\net472\Gurux.DLMS.pdb

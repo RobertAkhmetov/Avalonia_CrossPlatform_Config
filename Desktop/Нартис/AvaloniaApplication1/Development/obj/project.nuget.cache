@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubEgAuQSDvXGaTfPXucTJtnFUJp8O8vB7YlFvMLrwDKDdhZiHa4uyL0++8gYw8qxuScgfiJSl73AnXfb+tmtkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akhmetov_rr\\source\\repos\\AvaloniaApplication1\\Development\\Gurux.DLMS.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\gurux.common\\8.4.2301.402\\gurux.common.8.4.2301.402.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\gurux.serial\\8.4.2301.402\\gurux.serial.8.4.2301.402.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\akhmetov_rr\\.nuget\\packages\\system.resources.extensions\\6.0.0\\system.resources.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

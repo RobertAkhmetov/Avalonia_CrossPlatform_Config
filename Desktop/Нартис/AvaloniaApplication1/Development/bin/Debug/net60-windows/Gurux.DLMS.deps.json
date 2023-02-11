@@ -1,0 +1,533 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gurux.DLMS/0.0.1-local": {
+        "dependencies": {
+          "Gurux.Serial": "8.4.2301.402"
+        },
+        "runtime": {
+          "Gurux.DLMS.dll": {}
+        }
+      },
+      "Gurux.Common/8.4.2301.402": {
+        "dependencies": {
+          "System.Resources.Extensions": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Gurux.Common.dll": {
+            "assemblyVersion": "8.4.2301.402",
+            "fileVersion": "8.4.2301.402"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/af/Gurux.Common.resources.dll": {
+            "locale": "af"
+          },
+          "lib/net6.0-windows7.0/ar/Gurux.Common.resources.dll": {
+            "locale": "ar"
+          },
+          "lib/net6.0-windows7.0/az/Gurux.Common.resources.dll": {
+            "locale": "az"
+          },
+          "lib/net6.0-windows7.0/be/Gurux.Common.resources.dll": {
+            "locale": "be"
+          },
+          "lib/net6.0-windows7.0/bg/Gurux.Common.resources.dll": {
+            "locale": "bg"
+          },
+          "lib/net6.0-windows7.0/bn/Gurux.Common.resources.dll": {
+            "locale": "bn"
+          },
+          "lib/net6.0-windows7.0/ca/Gurux.Common.resources.dll": {
+            "locale": "ca"
+          },
+          "lib/net6.0-windows7.0/cs/Gurux.Common.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net6.0-windows7.0/cy/Gurux.Common.resources.dll": {
+            "locale": "cy"
+          },
+          "lib/net6.0-windows7.0/da/Gurux.Common.resources.dll": {
+            "locale": "da"
+          },
+          "lib/net6.0-windows7.0/de/Gurux.Common.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/el/Gurux.Common.resources.dll": {
+            "locale": "el"
+          },
+          "lib/net6.0-windows7.0/es/Gurux.Common.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/et/Gurux.Common.resources.dll": {
+            "locale": "et"
+          },
+          "lib/net6.0-windows7.0/eu/Gurux.Common.resources.dll": {
+            "locale": "eu"
+          },
+          "lib/net6.0-windows7.0/fa/Gurux.Common.resources.dll": {
+            "locale": "fa"
+          },
+          "lib/net6.0-windows7.0/fi/Gurux.Common.resources.dll": {
+            "locale": "fi"
+          },
+          "lib/net6.0-windows7.0/fr/Gurux.Common.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ga/Gurux.Common.resources.dll": {
+            "locale": "ga"
+          },
+          "lib/net6.0-windows7.0/gl/Gurux.Common.resources.dll": {
+            "locale": "gl"
+          },
+          "lib/net6.0-windows7.0/gu/Gurux.Common.resources.dll": {
+            "locale": "gu"
+          },
+          "lib/net6.0-windows7.0/hi/Gurux.Common.resources.dll": {
+            "locale": "hi"
+          },
+          "lib/net6.0-windows7.0/hr/Gurux.Common.resources.dll": {
+            "locale": "hr"
+          },
+          "lib/net6.0-windows7.0/hu/Gurux.Common.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net6.0-windows7.0/id/Gurux.Common.resources.dll": {
+            "locale": "id"
+          },
+          "lib/net6.0-windows7.0/is/Gurux.Common.resources.dll": {
+            "locale": "is"
+          },
+          "lib/net6.0-windows7.0/it/Gurux.Common.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net6.0-windows7.0/ja/Gurux.Common.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0-windows7.0/ka/Gurux.Common.resources.dll": {
+            "locale": "ka"
+          },
+          "lib/net6.0-windows7.0/kn/Gurux.Common.resources.dll": {
+            "locale": "kn"
+          },
+          "lib/net6.0-windows7.0/ko/Gurux.Common.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net6.0-windows7.0/lt/Gurux.Common.resources.dll": {
+            "locale": "lt"
+          },
+          "lib/net6.0-windows7.0/lv/Gurux.Common.resources.dll": {
+            "locale": "lv"
+          },
+          "lib/net6.0-windows7.0/mk/Gurux.Common.resources.dll": {
+            "locale": "mk"
+          },
+          "lib/net6.0-windows7.0/ms/Gurux.Common.resources.dll": {
+            "locale": "ms"
+          },
+          "lib/net6.0-windows7.0/mt/Gurux.Common.resources.dll": {
+            "locale": "mt"
+          },
+          "lib/net6.0-windows7.0/nl/Gurux.Common.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/net6.0-windows7.0/no/Gurux.Common.resources.dll": {
+            "locale": "no"
+          },
+          "lib/net6.0-windows7.0/pl/Gurux.Common.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net6.0-windows7.0/pt/Gurux.Common.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net6.0-windows7.0/ro/Gurux.Common.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/net6.0-windows7.0/ru/Gurux.Common.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net6.0-windows7.0/sk/Gurux.Common.resources.dll": {
+            "locale": "sk"
+          },
+          "lib/net6.0-windows7.0/sl/Gurux.Common.resources.dll": {
+            "locale": "sl"
+          },
+          "lib/net6.0-windows7.0/sq/Gurux.Common.resources.dll": {
+            "locale": "sq"
+          },
+          "lib/net6.0-windows7.0/sr/Gurux.Common.resources.dll": {
+            "locale": "sr"
+          },
+          "lib/net6.0-windows7.0/sv/Gurux.Common.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net6.0-windows7.0/sw/Gurux.Common.resources.dll": {
+            "locale": "sw"
+          },
+          "lib/net6.0-windows7.0/ta/Gurux.Common.resources.dll": {
+            "locale": "ta"
+          },
+          "lib/net6.0-windows7.0/te/Gurux.Common.resources.dll": {
+            "locale": "te"
+          },
+          "lib/net6.0-windows7.0/th/Gurux.Common.resources.dll": {
+            "locale": "th"
+          },
+          "lib/net6.0-windows7.0/tr/Gurux.Common.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net6.0-windows7.0/uk/Gurux.Common.resources.dll": {
+            "locale": "uk"
+          },
+          "lib/net6.0-windows7.0/ur/Gurux.Common.resources.dll": {
+            "locale": "ur"
+          },
+          "lib/net6.0-windows7.0/vi/Gurux.Common.resources.dll": {
+            "locale": "vi"
+          }
+        }
+      },
+      "Gurux.Serial/8.4.2301.402": {
+        "dependencies": {
+          "Gurux.Common": "8.4.2301.402",
+          "System.IO.Ports": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Gurux.Serial.dll": {
+            "assemblyVersion": "8.4.2301.402",
+            "fileVersion": "8.4.2301.402"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/af/Gurux.Serial.resources.dll": {
+            "locale": "af"
+          },
+          "lib/net6.0-windows7.0/ar/Gurux.Serial.resources.dll": {
+            "locale": "ar"
+          },
+          "lib/net6.0-windows7.0/az/Gurux.Serial.resources.dll": {
+            "locale": "az"
+          },
+          "lib/net6.0-windows7.0/be/Gurux.Serial.resources.dll": {
+            "locale": "be"
+          },
+          "lib/net6.0-windows7.0/bg/Gurux.Serial.resources.dll": {
+            "locale": "bg"
+          },
+          "lib/net6.0-windows7.0/bn/Gurux.Serial.resources.dll": {
+            "locale": "bn"
+          },
+          "lib/net6.0-windows7.0/ca/Gurux.Serial.resources.dll": {
+            "locale": "ca"
+          },
+          "lib/net6.0-windows7.0/cs/Gurux.Serial.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net6.0-windows7.0/cy/Gurux.Serial.resources.dll": {
+            "locale": "cy"
+          },
+          "lib/net6.0-windows7.0/da/Gurux.Serial.resources.dll": {
+            "locale": "da"
+          },
+          "lib/net6.0-windows7.0/de/Gurux.Serial.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net6.0-windows7.0/el/Gurux.Serial.resources.dll": {
+            "locale": "el"
+          },
+          "lib/net6.0-windows7.0/es/Gurux.Serial.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net6.0-windows7.0/et/Gurux.Serial.resources.dll": {
+            "locale": "et"
+          },
+          "lib/net6.0-windows7.0/eu/Gurux.Serial.resources.dll": {
+            "locale": "eu"
+          },
+          "lib/net6.0-windows7.0/fa/Gurux.Serial.resources.dll": {
+            "locale": "fa"
+          },
+          "lib/net6.0-windows7.0/fi/Gurux.Serial.resources.dll": {
+            "locale": "fi"
+          },
+          "lib/net6.0-windows7.0/fr/Gurux.Serial.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net6.0-windows7.0/ga/Gurux.Serial.resources.dll": {
+            "locale": "ga"
+          },
+          "lib/net6.0-windows7.0/gl/Gurux.Serial.resources.dll": {
+            "locale": "gl"
+          },
+          "lib/net6.0-windows7.0/gu/Gurux.Serial.resources.dll": {
+            "locale": "gu"
+          },
+          "lib/net6.0-windows7.0/hi/Gurux.Serial.resources.dll": {
+            "locale": "hi"
+          },
+          "lib/net6.0-windows7.0/hr/Gurux.Serial.resources.dll": {
+            "locale": "hr"
+          },
+          "lib/net6.0-windows7.0/hu/Gurux.Serial.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net6.0-windows7.0/id/Gurux.Serial.resources.dll": {
+            "locale": "id"
+          },
+          "lib/net6.0-windows7.0/is/Gurux.Serial.resources.dll": {
+            "locale": "is"
+          },
+          "lib/net6.0-windows7.0/it/Gurux.Serial.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net6.0-windows7.0/ja/Gurux.Serial.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net6.0-windows7.0/ka/Gurux.Serial.resources.dll": {
+            "locale": "ka"
+          },
+          "lib/net6.0-windows7.0/kn/Gurux.Serial.resources.dll": {
+            "locale": "kn"
+          },
+          "lib/net6.0-windows7.0/ko/Gurux.Serial.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net6.0-windows7.0/lt/Gurux.Serial.resources.dll": {
+            "locale": "lt"
+          },
+          "lib/net6.0-windows7.0/lv/Gurux.Serial.resources.dll": {
+            "locale": "lv"
+          },
+          "lib/net6.0-windows7.0/mk/Gurux.Serial.resources.dll": {
+            "locale": "mk"
+          },
+          "lib/net6.0-windows7.0/ms/Gurux.Serial.resources.dll": {
+            "locale": "ms"
+          },
+          "lib/net6.0-windows7.0/mt/Gurux.Serial.resources.dll": {
+            "locale": "mt"
+          },
+          "lib/net6.0-windows7.0/nl/Gurux.Serial.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/net6.0-windows7.0/no/Gurux.Serial.resources.dll": {
+            "locale": "no"
+          },
+          "lib/net6.0-windows7.0/pl/Gurux.Serial.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net6.0-windows7.0/pt/Gurux.Serial.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net6.0-windows7.0/ro/Gurux.Serial.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/net6.0-windows7.0/ru/Gurux.Serial.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net6.0-windows7.0/sk/Gurux.Serial.resources.dll": {
+            "locale": "sk"
+          },
+          "lib/net6.0-windows7.0/sl/Gurux.Serial.resources.dll": {
+            "locale": "sl"
+          },
+          "lib/net6.0-windows7.0/sq/Gurux.Serial.resources.dll": {
+            "locale": "sq"
+          },
+          "lib/net6.0-windows7.0/sr/Gurux.Serial.resources.dll": {
+            "locale": "sr"
+          },
+          "lib/net6.0-windows7.0/sv/Gurux.Serial.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net6.0-windows7.0/sw/Gurux.Serial.resources.dll": {
+            "locale": "sw"
+          },
+          "lib/net6.0-windows7.0/ta/Gurux.Serial.resources.dll": {
+            "locale": "ta"
+          },
+          "lib/net6.0-windows7.0/te/Gurux.Serial.resources.dll": {
+            "locale": "te"
+          },
+          "lib/net6.0-windows7.0/th/Gurux.Serial.resources.dll": {
+            "locale": "th"
+          },
+          "lib/net6.0-windows7.0/tr/Gurux.Serial.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net6.0-windows7.0/uk/Gurux.Serial.resources.dll": {
+            "locale": "uk"
+          },
+          "lib/net6.0-windows7.0/ur/Gurux.Serial.resources.dll": {
+            "locale": "ur"
+          },
+          "lib/net6.0-windows7.0/vi/Gurux.Serial.resources.dll": {
+            "locale": "vi"
+          }
+        }
+      },
+      "runtime.linux-arm.runtime.native.System.IO.Ports/6.0.0": {
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libSystem.IO.Ports.Native.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.linux-arm64.runtime.native.System.IO.Ports/6.0.0": {
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.linux-x64.runtime.native.System.IO.Ports/6.0.0": {
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libSystem.IO.Ports.Native.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.native.System.IO.Ports/6.0.0": {
+        "dependencies": {
+          "runtime.linux-arm.runtime.native.System.IO.Ports": "6.0.0",
+          "runtime.linux-arm64.runtime.native.System.IO.Ports": "6.0.0",
+          "runtime.linux-x64.runtime.native.System.IO.Ports": "6.0.0",
+          "runtime.osx-arm64.runtime.native.System.IO.Ports": "6.0.0",
+          "runtime.osx-x64.runtime.native.System.IO.Ports": "6.0.0"
+        }
+      },
+      "runtime.osx-arm64.runtime.native.System.IO.Ports/6.0.0": {
+        "runtimeTargets": {
+          "runtimes/osx-arm64/native/libSystem.IO.Ports.Native.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "runtime.osx-x64.runtime.native.System.IO.Ports/6.0.0": {
+        "runtimeTargets": {
+          "runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.IO.Ports/6.0.0": {
+        "dependencies": {
+          "runtime.native.System.IO.Ports": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.IO.Ports.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/net6.0/System.IO.Ports.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          },
+          "runtimes/win/lib/net6.0/System.IO.Ports.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Resources.Extensions/6.0.0": {}
+    }
+  },
+  "libraries": {
+    "Gurux.DLMS/0.0.1-local": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gurux.Common/8.4.2301.402": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H+KDhZ6F+uKVTV5hwYMfODzn08ZhT+kb0b2z6uvtMRkTdGVHIundTE0ZMv7IbWJjeBpBqlsOpwY7MuvW1jFhnw==",
+      "path": "gurux.common/8.4.2301.402",
+      "hashPath": "gurux.common.8.4.2301.402.nupkg.sha512"
+    },
+    "Gurux.Serial/8.4.2301.402": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ciYBjxY5MSR/degga+PKXB6yZsGQxM/UaViz0i4WUpMQrt9H9Q7HQoI9N0eTlkqdlZDEynlzPK9ZSZXUxofTsA==",
+      "path": "gurux.serial/8.4.2301.402",
+      "hashPath": "gurux.serial.8.4.2301.402.nupkg.sha512"
+    },
+    "runtime.linux-arm.runtime.native.System.IO.Ports/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-75q52H7CSpgIoIDwXb9o833EvBZIXJ0mdPhz1E6jSisEXUBlSCPalC29cj3EXsjpuDwr0dj1LRXZepIQH/oL4Q==",
+      "path": "runtime.linux-arm.runtime.native.system.io.ports/6.0.0",
+      "hashPath": "runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512"
+    },
+    "runtime.linux-arm64.runtime.native.System.IO.Ports/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xn2bMThmXr3CsvOYmS8ex2Yz1xo+kcnhVg2iVhS9PlmqjZPAkrEo/I40wjrBZH/tU4kvH0s1AE8opAvQ3KIS8g==",
+      "path": "runtime.linux-arm64.runtime.native.system.io.ports/6.0.0",
+      "hashPath": "runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512"
+    },
+    "runtime.linux-x64.runtime.native.System.IO.Ports/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-16nbNXwv0sC+gLGIuecri0skjuh6R1maIJggsaNP7MQBcbVcEfWFUOkEnsnvoLEjy0XerfibuRptfQ8AmdIcWA==",
+      "path": "runtime.linux-x64.runtime.native.system.io.ports/6.0.0",
+      "hashPath": "runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512"
+    },
+    "runtime.native.System.IO.Ports/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KaaXlpOcuZjMdmyF5wzzx3b+PRKIzt6A5Ax9dKenPDQbVJAFpev+casD0BIig1pBcbs3zx7CqWemzUJKAeHdSQ==",
+      "path": "runtime.native.system.io.ports/6.0.0",
+      "hashPath": "runtime.native.system.io.ports.6.0.0.nupkg.sha512"
+    },
+    "runtime.osx-arm64.runtime.native.System.IO.Ports/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fXG12NodG1QrCdoaeSQ1gVnk/koi4WYY4jZtarMkZeQMyReBm1nZlSRoPnUjLr2ZR36TiMjpcGnQfxymieUe7w==",
+      "path": "runtime.osx-arm64.runtime.native.system.io.ports/6.0.0",
+      "hashPath": "runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512"
+    },
+    "runtime.osx-x64.runtime.native.System.IO.Ports/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/As+zPY49+dSUXkh+fTUbyPhqrdGN//evLxo4Vue88pfh1BHZgF7q4kMblTkxYvwR6Vi03zSYxysSFktO8/SDQ==",
+      "path": "runtime.osx-x64.runtime.native.system.io.ports/6.0.0",
+      "hashPath": "runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512"
+    },
+    "System.IO.Ports/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dRyGI7fUESar5ZLIpiBOaaNLW7YyOBGftjj5Of+xcduC/Rjl7RjhEnWDvvNBmHuF3d0tdXoqdVI/yrVA8f00XA==",
+      "path": "system.io.ports/6.0.0",
+      "hashPath": "system.io.ports.6.0.0.nupkg.sha512"
+    },
+    "System.Resources.Extensions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBnVzNQYd0OHqh0VLu/hi0zFOTtyF8QwtziQBmzX/ZtVOea4+JEVOGu29DHeSOA0a9SFrYjQorBrOLuKLhcMNQ==",
+      "path": "system.resources.extensions/6.0.0",
+      "hashPath": "system.resources.extensions.6.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gurux.DLMS/0.0.1-local": {
+        "runtime": {
+          "Gurux.DLMS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gurux.DLMS/0.0.1-local": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
